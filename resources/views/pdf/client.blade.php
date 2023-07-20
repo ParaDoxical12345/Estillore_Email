@@ -66,9 +66,9 @@
     <div class="container">
         <div class="address">
             <img src="{{public_path('images/large.png')}}" class="logo" alt="Logo">
-            <p>Tinangnan</p>
+            <p>Bronzeville</p>
             <p>Bohol, Tubigon</p>
-            <p>Tel. No.: 09486306766</p>
+            <p>Tel. No.: 09071289244</p>
         </div>
 
         <h1>Client Summary</h1>
